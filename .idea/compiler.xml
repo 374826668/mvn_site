@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mvn_site" />
+        <module name="peng_back_dao" />
+        <module name="peng_back_service" />
+        <module name="peng_back_web" />
+        <module name="peng_portal_dao" />
+        <module name="peng_portal_service" />
+        <module name="peng_portal_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="peng_portal_service" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

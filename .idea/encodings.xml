@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_back" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_back/peng_back_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_back/peng_back_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_back/peng_back_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_portal/peng_portal_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_portal/peng_portal_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_portal/peng_portal_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../peng_portal/peng_portal_web" charset="UTF-8" />
+  </component>
+</project>
